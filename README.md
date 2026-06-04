@@ -66,10 +66,10 @@ Identificar modelos 3D desatualizados em modelos federados era um processo manua
 
 | Ano | Empresa | Descrição |
 |-----|---------|-----------|
-| 2018 | Quincy Games *(Freelancer)* | 🎮 Desenvolvimento do jogo demo **Horizon** — Unreal Engine 4 e Autodesk Maya |
-| 2024 | Ankar Startup *(Freelancer)* | 🗄️ Banco de dados para controle de consumo de gastos de empresa de distribuição - Java |
-| 2024 | Projeto Individual | 🤖 Bot para Discord com sistema de RPG completo — Python e Discord API |
 | 2025 | Progen S.A. | 📊 Automação de coleta de dados de RH — aumento de **300%** na velocidade de gestão - Python |
+| 2024 | Projeto Individual | 🤖 Bot para Discord com sistema de RPG completo — Python e Discord API |
+| 2024 | Ankar Startup *(Freelancer)* | 🗄️ Banco de dados para controle de consumo de gastos de empresa de distribuição - Java |
+| 2018 | Quincy Games *(Freelancer)* | 🎮 Desenvolvimento do jogo demo **Horizon** — Unreal Engine 4 e Autodesk Maya |
 
 ---
 
